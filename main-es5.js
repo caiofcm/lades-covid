@@ -1529,7 +1529,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-main-app"]],
       decls: 24,
       vars: 12,
-      consts: [[1, "sidenav-container"], ["fixedInViewport", "", 1, "sidenav", 3, "mode", "opened"], ["drawer", ""], ["mat-list-item", "", "routerLink", ""], ["mat-list-item", "", "routerLink", "brazil"], ["mat-list-item", "", "routerLink", "analyzes"], ["color", "primary", 2, "display", "flex", "justify-content", "space-between"], ["type", "button", "aria-label", "Toggle sidenav", "mat-icon-button", "", 3, "click", 4, "ngIf"], ["src", "../../assets/cropped-Marcas_Lades.png", "alt", "", "srcset", "", 2, "width", "100px", "background-color", "white"], ["type", "button", "aria-label", "Toggle sidenav", "mat-icon-button", "", 3, "click"], ["aria-label", "Side nav toggle icon"]],
+      consts: [[1, "sidenav-container"], ["fixedInViewport", "", 1, "sidenav", 3, "mode", "opened"], ["drawer", ""], ["mat-list-item", "", "routerLink", ""], ["mat-list-item", "", "routerLink", "brazil"], ["mat-list-item", "", "routerLink", "analyzes"], ["color", "primary", 2, "display", "flex", "justify-content", "space-between"], ["type", "button", "aria-label", "Toggle sidenav", "mat-icon-button", "", 3, "click", 4, "ngIf"], ["src", "./assets/cropped-Marcas_Lades.png", "alt", "", "srcset", "", 2, "width", "100px", "background-color", "white"], ["type", "button", "aria-label", "Toggle sidenav", "mat-icon-button", "", 3, "click"], ["aria-label", "Side nav toggle icon"]],
       template: function MainAppComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-sidenav-container", 0);
